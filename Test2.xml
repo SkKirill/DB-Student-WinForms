@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <FIO>Филиппов Александр Анатольевич</FIO>
+    <Cours>2</Cours>
+    <Group>10</Group>
+    <Sessions>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>вцф</Name>
+            <Mark>3</Mark>
+          </Exam>
+          <Exam>
+            <Name>фвцф</Name>
+            <Mark>3</Mark>
+          </Exam>
+          <Exam>
+            <Name>фвф</Name>
+            <Mark>3</Mark>
+          </Exam>
+          <Exam>
+            <Name>фв</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>вфв</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>фвфв</Name>
+            <Mark>4</Mark>
+          </Exam>
+          <Exam>
+            <Name>фвф</Name>
+            <Mark>4</Mark>
+          </Exam>
+          <Exam>
+            <Name>вфв</Name>
+            <Mark>3</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>шщдшщдшгдшг</Name>
+            <Mark>4</Mark>
+          </Exam>
+          <Exam>
+            <Name>шгдгшдгшдгшд</Name>
+            <Mark>4</Mark>
+          </Exam>
+          <Exam>
+            <Name>дшгдгшдгшд</Name>
+            <Mark>3</Mark>
+          </Exam>
+          <Exam>
+            <Name>дшгдгшдшгдгшд</Name>
+            <Mark>4</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+    </Sessions>
+    <FormЕducation>Budget</FormЕducation>
+  </Student>
+  <Student>
+    <FIO>Хворостинина Елизавета Павловна</FIO>
+    <Cours>2</Cours>
+    <Group>10</Group>
+    <Sessions>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>waFSEZgef</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>ESgzrdhzg</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>efszgrdf</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>zgrdf</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>у</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>у</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>у</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>у</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>у</Name>
+            <Mark>3</Mark>
+          </Exam>
+          <Exam>
+            <Name>у</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>у</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>у</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+    </Sessions>
+    <FormЕducation>Budget</FormЕducation>
+  </Student>
+  <Student>
+    <FIO>Попова Анастасия Алексеевна</FIO>
+    <Cours>3</Cours>
+    <Group>10</Group>
+    <Sessions>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>цвфы</Name>
+            <Mark>3</Mark>
+          </Exam>
+          <Exam>
+            <Name>фывфыв</Name>
+            <Mark>3</Mark>
+          </Exam>
+          <Exam>
+            <Name>ыфвфы</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>фывфыв</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+    </Sessions>
+    <FormЕducation>Budget</FormЕducation>
+  </Student>
+  <Student>
+    <FIO>Скоморохов Кирилл Сергеевич</FIO>
+    <Cours>3</Cours>
+    <Group>101</Group>
+    <Sessions>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>й</Name>
+            <Mark>3</Mark>
+          </Exam>
+          <Exam>
+            <Name>й</Name>
+            <Mark>2</Mark>
+          </Exam>
+          <Exam>
+            <Name>й</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>й</Name>
+            <Mark>4</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>й</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>й</Name>
+            <Mark>4</Mark>
+          </Exam>
+          <Exam>
+            <Name>й</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>й</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>ыаууы</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>ыуау</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>аыуа</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>ыуаыу</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>уаыы</Name>
+            <Mark>4</Mark>
+          </Exam>
+          <Exam>
+            <Name>ыуаыуаыуа</Name>
+            <Mark>3</Mark>
+          </Exam>
+          <Exam>
+            <Name>ауыа</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>аыу</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>уыауаыуа</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>ауыуаыу</Name>
+            <Mark>4</Mark>
+          </Exam>
+          <Exam>
+            <Name>ыуаыу</Name>
+            <Mark>4</Mark>
+          </Exam>
+          <Exam>
+            <Name>аыуаыуа</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+    </Sessions>
+    <FormЕducation>Budget</FormЕducation>
+  </Student>
+  <Student>
+    <FIO>Зезюков Кирилл Сергеевич</FIO>
+    <Cours>4</Cours>
+    <Group>777</Group>
+    <Sessions>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>фуаы</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>фуаыфцв</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>ауыкау</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>фуаыфцв</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>уаыкпвкыау</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>уаыкп</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>фуаыпка</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>цфуаыфцв</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>фцвфц</Name>
+            <Mark>3</Mark>
+          </Exam>
+          <Exam>
+            <Name>цфвфцв</Name>
+            <Mark>4</Mark>
+          </Exam>
+          <Exam>
+            <Name>фцвфцвф</Name>
+            <Mark>4</Mark>
+          </Exam>
+          <Exam>
+            <Name>вфцвфц</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>фцвцфв</Name>
+            <Mark>3</Mark>
+          </Exam>
+          <Exam>
+            <Name>фцвфц</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>фцвцфв</Name>
+            <Mark>4</Mark>
+          </Exam>
+          <Exam>
+            <Name>вфцв</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>фцв</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>вцф</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>вфц</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>фцввфц</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>фцв</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>цф</Name>
+            <Mark>3</Mark>
+          </Exam>
+          <Exam>
+            <Name>вфц</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>фвц</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>фвфцвфцв</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>вфццв</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>цвффц</Name>
+            <Mark>5</Mark>
+          </Exam>
+          <Exam>
+            <Name>фцвфцвцф</Name>
+            <Mark>5</Mark>
+          </Exam>
+        </Exams>
+      </Session>
+      <Session>
+        <Exams>
+          <Exam>
+            <Name>вфццв</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>цвфцв</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>фцвфцв</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+          <Exam>
+            <Name>вфцвфц</Name>
+            <Mark xsi:nil="true" />
+          </Exam>
+        </Exams>
+      </Session>
+    </Sessions>
+    <FormЕducation>Agreement</FormЕducation>
+  </Student>
+</ArrayOfStudent>
